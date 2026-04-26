@@ -1,1 +1,2 @@
 added file1.txt
+fixed code in file1.txt
